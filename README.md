@@ -1,6 +1,6 @@
 # qr_reader
 
-A new Flutter project.
+Maps and QR reader, implemented on this app.
 
 ## Getting Started
 
